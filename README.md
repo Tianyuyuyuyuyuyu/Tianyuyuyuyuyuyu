@@ -19,11 +19,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/TianYuFromChina.svg?style=social)](https://twitter.com/TianYuFromChina) 
 
 
-## Qiita
-
-<div>
-<p>
-<a href="http://qiita.com/nkjzm"><img src="https://qiita-badge.apiapi.app/s/nkjzm/posts.svg" alt="My Qiita posts"></a>
-<a href="http://qiita.com/nkjzm"><img src="https://qiita-badge.apiapi.app/s/nkjzm/contributions.svg" alt="My Qiita contributions"></a>
-<a href="http://qiita.com/nkjzm"><img src="https://qiita-badge.apiapi.app/s/nkjzm/followers.svg" alt="My Qiita followers"></a></p>
-</div>
+//## Qiita
+//
+//<div>
+//<p>
+//<a href="http://qiita.com/nkjzm"><img src="https://qiita-badge.apiapi.app/s/nkjzm/posts.svg" alt="My Qiita posts"></a>
+//<a href="http://qiita.com/nkjzm"><img src="https://qiita-badge.apiapi.app/s/nkjzm/contributions.svg" alt="My Qiita contributions"></a>
+//<a href="http://qiita.com/nkjzm"><img src="https://qiita-badge.apiapi.app/s/nkjzm/followers.svg" alt="My Qiita followers"></a></p>
+//</div>
