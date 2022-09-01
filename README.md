@@ -16,7 +16,7 @@
 
 ## Twitter
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/nkjzm.svg?style=social)](https://twitter.com/nkjzm) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/TianYuFromChina.svg?style=social)](https://twitter.com/TianYuFromChina) 
 
 
 ## Qiita
