@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="assets/china_flag.svg" width="400" height="267" alt="Chinese Flag" style="margin: 20px 0;" />
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+    <img src="assets/china_flag.svg" width="400" height="267" alt="Chinese Flag" />
+    <img src="assets/panda1.svg" height="267" alt="Panda 1" />
+    <img src="assets/panda2.svg" height="267" alt="Panda 2" />
+  </div>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DE2910&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile!;欢迎来到我的主页！;一起探索编程的世界！)](https://git.io/typing-svg)
 </div>
