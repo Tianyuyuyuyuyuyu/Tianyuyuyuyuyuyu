@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="800" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- 主体屋檐 -->
+  <path d="M0,80 Q400,0 800,80" stroke="#8B0000" stroke-width="4" fill="none"/>
+  <path d="M0,85 Q400,5 800,85" stroke="#8B0000" stroke-width="4" fill="none"/>
+  
+  <!-- 装饰纹样 -->
+  <g id="ornament">
+    <path d="M0,82 Q10,75 20,82" stroke="#8B0000" stroke-width="2" fill="none"/>
+    <circle cx="10" cy="82" r="2" fill="#8B0000"/>
+  </g>
+  
+  <!-- 重复装饰纹样 -->
+  <use href="#ornament" x="20" />
+  <use href="#ornament" x="40" />
+  <use href="#ornament" x="60" />
+  <use href="#ornament" x="80" />
+  <use href="#ornament" x="100" />
+  <use href="#ornament" x="120" />
+  <use href="#ornament" x="140" />
+  <use href="#ornament" x="160" />
+  <use href="#ornament" x="180" />
+  <use href="#ornament" x="200" />
+  <use href="#ornament" x="220" />
+  <use href="#ornament" x="240" />
+  <use href="#ornament" x="260" />
+  <use href="#ornament" x="280" />
+  <use href="#ornament" x="300" />
+  <use href="#ornament" x="320" />
+  <use href="#ornament" x="340" />
+  <use href="#ornament" x="360" />
+  <use href="#ornament" x="380" />
+  <use href="#ornament" x="400" />
+  <use href="#ornament" x="420" />
+  <use href="#ornament" x="440" />
+  <use href="#ornament" x="460" />
+  <use href="#ornament" x="480" />
+  <use href="#ornament" x="500" />
+  <use href="#ornament" x="520" />
+  <use href="#ornament" x="540" />
+  <use href="#ornament" x="560" />
+  <use href="#ornament" x="580" />
+  <use href="#ornament" x="600" />
+  <use href="#ornament" x="620" />
+  <use href="#ornament" x="640" />
+  <use href="#ornament" x="660" />
+  <use href="#ornament" x="680" />
+  <use href="#ornament" x="700" />
+  <use href="#ornament" x="720" />
+  <use href="#ornament" x="740" />
+  <use href="#ornament" x="760" />
+  <use href="#ornament" x="780" />
+  
+  <!-- 中央装饰 -->
+  <path d="M380,40 Q400,30 420,40 L420,60 Q400,70 380,60 Z" fill="#8B0000"/>
+  <circle cx="400" cy="50" r="5" fill="#FFD700"/>
+</svg> 
