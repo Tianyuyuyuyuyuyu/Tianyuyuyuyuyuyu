@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/china_flag.svg" width="600" height="400" alt="Chinese Flag" style="margin: 20px 0;" />
+  <img src="assets/china_flag.svg" width="400" height="267" alt="Chinese Flag" style="margin: 20px 0;" />
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DE2910&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile!;欢迎来到我的主页！;一起探索编程的世界！)](https://git.io/typing-svg)
 </div>
