@@ -1,5 +1,3 @@
-# Hi there 👋
-
 ![](assets/top_wave.svg)
 
 <div align="center">
