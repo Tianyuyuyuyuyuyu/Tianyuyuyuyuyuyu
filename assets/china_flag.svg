@@ -8,75 +8,76 @@
              repeatCount="indefinite"/>
   </rect>
   
-  <!-- 大星星 -->
-  <g transform="translate(50,50)" fill="#FFDE00">
-    <path d="M 0,-20 L 5.8,-6.2 19.4,-6.2 8.4,2.4 11.6,16.8 0,9.2 -11.6,16.8 -8.4,2.4 -19.4,-6.2 -5.8,-6.2 Z">
+  <!-- 大五角星 (旗高的3/10, 位于左上方长方形的中心) -->
+  <g transform="translate(75,50)" fill="#FFDE00">
+    <path d="M 0,-30 L 8.8,-9.2 29.4,-9.2 12.7,3.5 17.6,25.2 0,13.8 -17.6,25.2 -12.7,3.5 -29.4,-9.2 -8.8,-9.2 Z">
       <animateTransform
         attributeName="transform"
         type="rotate"
-        from="-2 0 0"
-        to="2 0 0"
-        dur="2s"
+        from="-1 0 0"
+        to="1 0 0"
+        dur="3s"
         repeatCount="indefinite"/>
     </path>
   </g>
   
-  <!-- 小星星1 -->
-  <g transform="translate(90,20)" fill="#FFDE00">
-    <path d="M 0,-6 L 1.8,-1.8 5.8,-1.8 2.6,0.7 3.6,4.8 0,2.6 -3.6,4.8 -2.6,0.7 -5.8,-1.8 -1.8,-1.8 Z">
+  <!-- 四颗小五角星 (旗高的1/10) -->
+  <!-- 第一颗小星 (上2下8, 左10右5) -->
+  <g transform="translate(120,20)" fill="#FFDE00">
+    <path d="M 0,-10 L 2.9,-3.1 9.8,-3.1 4.2,1.2 5.9,8.4 0,4.6 -5.9,8.4 -4.2,1.2 -9.8,-3.1 -2.9,-3.1 Z">
       <animateTransform
         attributeName="transform"
         type="rotate"
-        from="-3 0 0"
-        to="3 0 0"
-        dur="2.5s"
+        from="-1 0 0"
+        to="1 0 0"
+        dur="3s"
         repeatCount="indefinite"/>
     </path>
   </g>
   
-  <!-- 小星星2 -->
-  <g transform="translate(110,35)" fill="#FFDE00">
-    <path d="M 0,-6 L 1.8,-1.8 5.8,-1.8 2.6,0.7 3.6,4.8 0,2.6 -3.6,4.8 -2.6,0.7 -5.8,-1.8 -1.8,-1.8 Z">
+  <!-- 第二颗小星 (上4下6, 左12右3) -->
+  <g transform="translate(140,40)" fill="#FFDE00">
+    <path d="M 0,-10 L 2.9,-3.1 9.8,-3.1 4.2,1.2 5.9,8.4 0,4.6 -5.9,8.4 -4.2,1.2 -9.8,-3.1 -2.9,-3.1 Z">
       <animateTransform
         attributeName="transform"
         type="rotate"
-        from="-3 0 0"
-        to="3 0 0"
-        dur="2.2s"
+        from="-1 0 0"
+        to="1 0 0"
+        dur="3s"
         repeatCount="indefinite"/>
     </path>
   </g>
   
-  <!-- 小星星3 -->
-  <g transform="translate(110,55)" fill="#FFDE00">
-    <path d="M 0,-6 L 1.8,-1.8 5.8,-1.8 2.6,0.7 3.6,4.8 0,2.6 -3.6,4.8 -2.6,0.7 -5.8,-1.8 -1.8,-1.8 Z">
+  <!-- 第三颗小星 (上7下3, 左12右3) -->
+  <g transform="translate(140,70)" fill="#FFDE00">
+    <path d="M 0,-10 L 2.9,-3.1 9.8,-3.1 4.2,1.2 5.9,8.4 0,4.6 -5.9,8.4 -4.2,1.2 -9.8,-3.1 -2.9,-3.1 Z">
       <animateTransform
         attributeName="transform"
         type="rotate"
-        from="-3 0 0"
-        to="3 0 0"
-        dur="2.3s"
+        from="-1 0 0"
+        to="1 0 0"
+        dur="3s"
         repeatCount="indefinite"/>
     </path>
   </g>
   
-  <!-- 小星星4 -->
-  <g transform="translate(90,70)" fill="#FFDE00">
-    <path d="M 0,-6 L 1.8,-1.8 5.8,-1.8 2.6,0.7 3.6,4.8 0,2.6 -3.6,4.8 -2.6,0.7 -5.8,-1.8 -1.8,-1.8 Z">
+  <!-- 第四颗小星 (上9下1, 左10右5) -->
+  <g transform="translate(120,90)" fill="#FFDE00">
+    <path d="M 0,-10 L 2.9,-3.1 9.8,-3.1 4.2,1.2 5.9,8.4 0,4.6 -5.9,8.4 -4.2,1.2 -9.8,-3.1 -2.9,-3.1 Z">
       <animateTransform
         attributeName="transform"
         type="rotate"
-        from="-3 0 0"
-        to="3 0 0"
-        dur="2.4s"
+        from="-1 0 0"
+        to="1 0 0"
+        dur="3s"
         repeatCount="indefinite"/>
     </path>
   </g>
   
-  <!-- 飘动效果 -->
+  <!-- 轻微飘动效果 -->
   <animate 
     attributeName="viewBox"
-    values="0 0 300 200; -5 0 310 200; 0 0 300 200"
+    values="0 0 300 200; -2 0 304 200; 0 0 300 200"
     dur="3s"
     repeatCount="indefinite"/>
 </svg> 
