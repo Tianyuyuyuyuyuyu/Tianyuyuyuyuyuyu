@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 1920 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color: rgb(255, 222, 0);" />
+      <stop offset="100%" style="stop-color: rgb(222, 41, 16);" />
+    </linearGradient>
+  </defs>
+  <path d="M 0 60 C 480 0, 1440 0, 1920 60 L 1920 300 L 0 300 L 0 60" fill="url(#gradient)">
+    <animate attributeName="d" 
+      dur="5s" 
+      repeatCount="indefinite"
+      values="
+        M 0 60 C 480 0, 1440 0, 1920 60 L 1920 300 L 0 300 L 0 60;
+        M 0 40 C 480 120, 1440 120, 1920 40 L 1920 300 L 0 300 L 0 40;
+        M 0 60 C 480 0, 1440 0, 1920 60 L 1920 300 L 0 300 L 0 60"
+    />
+  </path>
+</svg> 
