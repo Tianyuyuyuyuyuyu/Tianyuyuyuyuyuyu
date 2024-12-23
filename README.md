@@ -1,7 +1,5 @@
-![](assets/top_wave.svg)
-
 <div align="center">
-  <img src="assets/china_flag.svg" width="300" height="200" alt="Chinese Flag" style="margin: 20px 0;" />
+  <img src="assets/china_flag.svg" width="600" height="400" alt="Chinese Flag" style="margin: 20px 0;" />
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DE2910&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile!;欢迎来到我的主页！;一起探索编程的世界！)](https://git.io/typing-svg)
 </div>
@@ -14,11 +12,6 @@
     <a href="https://github.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu/network/members"><img src="https://img.shields.io/github/forks/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Tianyuyuyuyuyuyu.Tianyuyuyuyuyuyu" alt="visitors"/>   
 </p>
-
-<!--   my-header-img -->
-![](./assets/header_.png)
-
-![](assets/bottom_wave.svg)
 
 <!--
 **Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
