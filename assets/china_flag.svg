@@ -1,43 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="200" viewBox="0 0 900 600">
   <!-- 红色背景 -->
-  <rect width="300" height="200" fill="#DE2910">
-    <animate attributeName="y" 
-             values="0;2;0;-2;0"
-             dur="3s"
-             repeatCount="indefinite"/>
-  </rect>
-  
-  <!-- 大五角星 (旗高的3/10, 位于左上方长方形的中心点：上5下5、左5右10) -->
-  <g transform="translate(50,50)" fill="#FFDE00">
-    <path d="M 0,-30 L 8.8,-9.2 29.4,-9.2 12.7,3.5 17.6,25.2 0,13.8 -17.6,25.2 -12.7,3.5 -29.4,-9.2 -8.8,-9.2 Z"/>
+  <path fill="#EE1C25" d="M0 0h900v600H0">
+    <animate 
+      attributeName="d" 
+      values="M0 0h900v600H0;M0 2h900v600H0;M0 0h900v600H0;M0 -2h900v600H0;M0 0h900v600H0"
+      dur="3s"
+      repeatCount="indefinite"/>
+  </path>
+
+  <!-- 大五角星 -->
+  <g transform="translate(150,150) scale(3)">
+    <path id="s" d="M0,-30 17.63355,24.27051 -28.53171,-9.27051H28.53171L-17.63355,24.27051" fill="#FF0"/>
   </g>
-  
-  <!-- 四颗小五角星 (旗高的1/10) -->
-  <!-- 第一颗小星 (上2下8、左10右5) -->
-  <g transform="translate(100,20)" fill="#FFDE00">
-    <path d="M 0,-10 L 2.9,-3.1 9.8,-3.1 4.2,1.2 5.9,8.4 0,4.6 -5.9,8.4 -4.2,1.2 -9.8,-3.1 -2.9,-3.1 Z"/>
-  </g>
-  
-  <!-- 第二颗小星 (上4下6、左12右3) -->
-  <g transform="translate(120,40)" fill="#FFDE00">
-    <path d="M 0,-10 L 2.9,-3.1 9.8,-3.1 4.2,1.2 5.9,8.4 0,4.6 -5.9,8.4 -4.2,1.2 -9.8,-3.1 -2.9,-3.1 Z"/>
-  </g>
-  
-  <!-- 第三颗小星 (上7下3、左12右3) -->
-  <g transform="translate(120,70)" fill="#FFDE00">
-    <path d="M 0,-10 L 2.9,-3.1 9.8,-3.1 4.2,1.2 5.9,8.4 0,4.6 -5.9,8.4 -4.2,1.2 -9.8,-3.1 -2.9,-3.1 Z"/>
-  </g>
-  
-  <!-- 第四颗小星 (上9下1、左10右5) -->
-  <g transform="translate(100,90)" fill="#FFDE00">
-    <path d="M 0,-10 L 2.9,-3.1 9.8,-3.1 4.2,1.2 5.9,8.4 0,4.6 -5.9,8.4 -4.2,1.2 -9.8,-3.1 -2.9,-3.1 Z"/>
-  </g>
-  
+
+  <!-- 四颗小五角星 -->
+  <use xlink:href="#s" transform="translate(300,60) rotate(23.036243)"/>
+  <use xlink:href="#s" transform="translate(360,120) rotate(45.869898)"/>
+  <use xlink:href="#s" transform="translate(360,210) rotate(69.945396)"/>
+  <use xlink:href="#s" transform="translate(300,270) rotate(20.659808)"/>
+
   <!-- 轻微飘动效果 -->
   <animate 
     attributeName="viewBox"
-    values="0 0 300 200; -2 0 304 200; 0 0 300 200"
+    values="0 0 900 600; -5 0 910 600; 0 0 900 600"
     dur="3s"
     repeatCount="indefinite"/>
 </svg> 
