@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="300" height="200" viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- 红色背景 -->
+  <rect width="300" height="200" fill="#DE2910">
+    <animate attributeName="y" 
+             values="0;2;0;-2;0"
+             dur="3s"
+             repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- 大星星 -->
+  <g transform="translate(50,50)" fill="#FFDE00">
+    <path d="M 0,-20 L 5.8,-6.2 19.4,-6.2 8.4,2.4 11.6,16.8 0,9.2 -11.6,16.8 -8.4,2.4 -19.4,-6.2 -5.8,-6.2 Z">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="-2 0 0"
+        to="2 0 0"
+        dur="2s"
+        repeatCount="indefinite"/>
+    </path>
+  </g>
+  
+  <!-- 小星星1 -->
+  <g transform="translate(90,20)" fill="#FFDE00">
+    <path d="M 0,-6 L 1.8,-1.8 5.8,-1.8 2.6,0.7 3.6,4.8 0,2.6 -3.6,4.8 -2.6,0.7 -5.8,-1.8 -1.8,-1.8 Z">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="-3 0 0"
+        to="3 0 0"
+        dur="2.5s"
+        repeatCount="indefinite"/>
+    </path>
+  </g>
+  
+  <!-- 小星星2 -->
+  <g transform="translate(110,35)" fill="#FFDE00">
+    <path d="M 0,-6 L 1.8,-1.8 5.8,-1.8 2.6,0.7 3.6,4.8 0,2.6 -3.6,4.8 -2.6,0.7 -5.8,-1.8 -1.8,-1.8 Z">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="-3 0 0"
+        to="3 0 0"
+        dur="2.2s"
+        repeatCount="indefinite"/>
+    </path>
+  </g>
+  
+  <!-- 小星星3 -->
+  <g transform="translate(110,55)" fill="#FFDE00">
+    <path d="M 0,-6 L 1.8,-1.8 5.8,-1.8 2.6,0.7 3.6,4.8 0,2.6 -3.6,4.8 -2.6,0.7 -5.8,-1.8 -1.8,-1.8 Z">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="-3 0 0"
+        to="3 0 0"
+        dur="2.3s"
+        repeatCount="indefinite"/>
+    </path>
+  </g>
+  
+  <!-- 小星星4 -->
+  <g transform="translate(90,70)" fill="#FFDE00">
+    <path d="M 0,-6 L 1.8,-1.8 5.8,-1.8 2.6,0.7 3.6,4.8 0,2.6 -3.6,4.8 -2.6,0.7 -5.8,-1.8 -1.8,-1.8 Z">
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        from="-3 0 0"
+        to="3 0 0"
+        dur="2.4s"
+        repeatCount="indefinite"/>
+    </path>
+  </g>
+  
+  <!-- 飘动效果 -->
+  <animate 
+    attributeName="viewBox"
+    values="0 0 300 200; -5 0 310 200; 0 0 300 200"
+    dur="3s"
+    repeatCount="indefinite"/>
+</svg> 

@@ -1,7 +1,7 @@
 ![](assets/top_wave.svg)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🇨🇳 中国-China-DE2910?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDgwMCI+DQo8cGF0aCBmaWxsPSIjREUyOTEwIiBkPSJtMCwwaDEyMDB2ODAwSDB6Ii8+DQo8cGF0aCBmaWxsPSIjRkZERTAwIiBkPSJtLTE5LjEsOTEuOSAxMC43LDMzLjFIMjUuN0wwLjMsNDEuNyAxMS4xLDc0LjgtMTQuMyw1OC4yIDM2LjYsNTguMiAxMS4xLDc0LjggMjEuOSw0MS43LTMuNyw3NC44eiIvPg0KPC9zdmc+" />
+  <img src="assets/china_flag.svg" width="300" height="200" alt="Chinese Flag" style="margin: 20px 0;" />
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DE2910&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile!;欢迎来到我的主页！;一起探索编程的世界！)](https://git.io/typing-svg)
 </div>
