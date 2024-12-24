@@ -80,6 +80,25 @@
       </td>
     </tr>
   </table>
+
+  <!--   GitHub stats graph -->
+  ### 📈 GitHub Activity Graph:
+  
+  <!--   green snake -->
+  ![Tianyuyuyuyuyuyu's github activity graph](https://raw.githubusercontent.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu/output/github-contribution-grid-snake.svg)
+  
+  <!--   stats + languages -->
+  | .                                                                                                                                       | .                                                                                                                         |
+  |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+  | ![Tianyuyuyuyuyuyu's github stats](https://github-readme-stats.vercel.app/api?username=Tianyuyuyuyuyuyu&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tianyuyuyuyuyuyu&theme=radical&layout=compact) |
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tianyuyuyuyuyuyu"></img>
+  
+  <!-- dark snake -->
+  ![Tianyuyuyuyuyuyu's github activity graph](https://raw.githubusercontent.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu/output/github-contribution-grid-snake-dark.svg)
+  
+  <!--   profile-green-animate -->
+  ![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
 
 <!--
