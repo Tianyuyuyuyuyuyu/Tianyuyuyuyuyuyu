@@ -80,6 +80,12 @@
       </td>
     </tr>
   </table>
+
+  <!--   GitHub stats graph -->
+  ### 📈 GitHub Activity Graph:
+  
+  ![Tianyuyuyuyuyuyu's github activity graph](https://raw.githubusercontent.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu/output/github-contribution-grid-snake.svg)
+  ![Tianyuyuyuyuyuyu's github activity graph](https://raw.githubusercontent.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 <!--
