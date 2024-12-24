@@ -18,7 +18,12 @@
   </p>
 
   <!--   header image -->
-  <img src="./src/header_.png" width="100%" alt="Tech Stack" />
+  <div style="position: relative; display: inline-block;">
+    <img src="./src/header_.png" width="100%" alt="Tech Stack" />
+    <a href="https://unity.com" style="position: absolute; right: 10px; bottom: 10px;">
+      <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" width="48" height="48" alt="Unity" />
+    </a>
+  </div>
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DE2910&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile!;欢迎来到我的主页！;一起探索编程的世界！)](https://git.io/typing-svg)
 </div>
