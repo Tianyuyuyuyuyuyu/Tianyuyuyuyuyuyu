@@ -21,7 +21,7 @@
   <div style="position: relative;">
     <img src="./src/header_.png" width="100%" alt="Tech Stack" />
     <a href="https://unity.com" style="position: absolute; right: 0; bottom: 0;">
-      <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity" height="20" alt="Unity" />
+      <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity" height="40" alt="Unity" />
     </a>
   </div>
 
