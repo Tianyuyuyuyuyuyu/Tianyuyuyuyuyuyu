@@ -19,17 +19,15 @@
 
   <!--   header image -->
   <img src="./src/header_.png" width="100%" alt="Tech Stack" />
+  <div align="right">
+    <a href="https://unity.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" height="50" width="138"></a>
+    <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="50" width="50"></a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png" height="50" width="50"></a>
+    <a href="https://dotnet.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/DotNet_logo.svg" height="50" width="50"></a>
+    <a href="https://chat.openai.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg" height="50" width="50"></a>
+  </div>
 
-  <table border="0">
-    <tr>
-      <td width="90%" align="center">
-        [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DE2910&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile!;欢迎来到我的主页！;一起探索编程的世界！)](https://git.io/typing-svg)
-      </td>
-      <td width="10%" align="right">
-        <a href="https://unity.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" height="50" width="138" ></a>
-      </td>
-    </tr>
-  </table>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DE2910&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile!;欢迎来到我的主页！;一起探索编程的世界！)](https://git.io/typing-svg)
 </div>
 
 <!--
