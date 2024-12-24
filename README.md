@@ -51,10 +51,12 @@
     <tr>
       <td>Domain Knowledge</td>
       <td>
-        <img src="https://img.shields.io/badge/Machine%20Learning-01D277?style=flat" alt="Machine Learning" />
+        <img src="https://img.shields.io/badge/Unity%20Development-000000?style=flat&logo=unity&logoColor=white" alt="Unity Development" />
+        <img src="https://img.shields.io/badge/Computer%20Organization-FF6B6B?style=flat" alt="Computer Organization" />
+        <img src="https://img.shields.io/badge/Computer%20Networks-00A0DC?style=flat" alt="Computer Networks" />
+        <img src="https://img.shields.io/badge/Operating%20Systems-FCC624?style=flat" alt="Operating Systems" />
+        <img src="https://img.shields.io/badge/Assembly%20Basics-808080?style=flat" alt="Assembly Basics" />
         <img src="https://img.shields.io/badge/Computer%20Science-FAB040?style=flat" alt="Computer Science" />
-        <img src="https://img.shields.io/badge/Electrical%20Engineering-4C8CBF?style=flat" alt="Electrical Engineering" />
-        <img src="https://img.shields.io/badge/Software%20Development-FF6600?style=flat" alt="Software Development" />
       </td>
     </tr>
     <tr>
