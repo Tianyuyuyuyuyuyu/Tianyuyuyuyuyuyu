@@ -9,9 +9,9 @@
   
   <!--   my-icons -->
   <p align="center">
-      <a href="https://github.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+      <a href="https://github.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyuyu"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
       <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
-      <a href="https://github.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu/graphs/contributors"><img src="https://img.shields.io/github/contributors/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu?color=blue"></a>
+      <a href="https://github.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyuyu/graphs/contributors"><img src="https://img.shields.io/github/contributors/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu?color=blue"></a>
       <a href="https://github.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu/stargazers"><img src="https://img.shields.io/github/stars/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu.svg?logo=github"></a>
       <a href="https://github.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu/network/members"><img src="https://img.shields.io/github/forks/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu.svg?color=blue&logo=github"></a>
       <img src="https://visitor-badge.laobi.icu/badge?page_id=Tianyuyuyuyuyuyu.Tianyuyuyuyuyuyu" alt="visitors"/>   
@@ -88,9 +88,9 @@
 
   | .                                                                                                                                       | .                                                                                                                         |
   |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-  | ![Tianyuyuyuyuyuyu's github stats](https://github-readme-stats.vercel.app/api?username=Tianyuyuyuyuyuyu&show_icons=true&theme=radical&include_all_commits=true) | ![Tianyuyuyuyuyuyu's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tianyuyuyuyuyuyu&theme=radical&layout=compact) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tianyuyuyuyuyuyu&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tianyuyuyuyuyuyu&theme=radical) |
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tianyuyuyuyuyuyu"></img>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tianyuyuyuyuyuyu&theme=radical)
 
   ![Tianyuyuyuyuyuyu's github activity graph](https://raw.githubusercontent.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu/output/github-contribution-grid-snake-dark.svg)
 </div>
