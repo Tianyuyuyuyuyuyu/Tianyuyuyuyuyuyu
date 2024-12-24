@@ -34,11 +34,11 @@
   <!-- Skill Matrix -->
   <table>
     <tr>
-      <td><b>🛠 Property</b></td>
+      <td width="200"><b>🛠 Property</b></td>
       <td><b>💻 Data</b></td>
     </tr>
     <tr>
-      <td>Language / IDE</td>
+      <td width="200">Language / IDE</td>
       <td>
         <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" />
@@ -50,7 +50,7 @@
       </td>
     </tr>
     <tr>
-      <td>Domain Knowledge</td>
+      <td width="200">Domain Knowledge</td>
       <td>
         <img src="https://img.shields.io/badge/Machine%20Learning-01D277?style=flat" alt="Machine Learning" />
         <img src="https://img.shields.io/badge/Computer%20Science-FAB040?style=flat" alt="Computer Science" />
@@ -59,7 +59,7 @@
       </td>
     </tr>
     <tr>
-      <td>CI / CD</td>
+      <td width="200">CI / CD</td>
       <td>
         <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown" />
         <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
@@ -71,22 +71,11 @@
       </td>
     </tr>
     <tr>
-      <td>Databases</td>
+      <td width="200">Databases</td>
       <td>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
         <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      </td>
-    </tr>
-    <tr>
-      <td>Machine Learning / Deep Learning frameworks</td>
-      <td>
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-        <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-        <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=flat&logo=openai&logoColor=white" alt="ChatGPT" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
       </td>
     </tr>
   </table>
