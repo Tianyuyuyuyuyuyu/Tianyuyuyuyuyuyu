@@ -19,7 +19,7 @@
 
   <!--   header image -->
   <img src="./src/header_.png" width="100%" alt="Tech Stack" />
-  <div align="right">
+  <div align="center">
     <a href="https://unity.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" height="50" width="138"></a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png" height="50" width="50"></a>
     <a href="https://dotnet.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/DotNet_logo.svg" height="50" width="50"></a>
