@@ -18,10 +18,10 @@
   </p>
 
   <!--   header image -->
-  <div style="position: relative;">
+  <div style="position: relative; display: inline-block;">
     <img src="./src/header_.png" width="100%" alt="Tech Stack" />
-    <a href="https://unity.com" style="position: absolute; right: 0; bottom: 0;">
-      <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity" height="40" alt="Unity" />
+    <a href="https://unity.com" style="position: absolute; right: 10px; bottom: -40px;">
+      <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" height="40" alt="Unity" />
     </a>
   </div>
 
