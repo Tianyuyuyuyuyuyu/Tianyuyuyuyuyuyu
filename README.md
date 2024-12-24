@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="assets/china_flag.svg" width="400" height="267" alt="Chinese Flag" style="display: inline-block;" /><img src="assets/panda1.svg" height="267" style="display: inline-block;" /><img src="assets/panda2.svg" height="267" style="display: inline-block;" />
+  <table>
+    <tr>
+      <td><img src="assets/china_flag.svg" width="400" height="267" alt="Chinese Flag" /></td>
+      <td><img src="assets/panda1.svg" height="267" alt="Panda 1" /></td>
+      <td><img src="assets/panda2.svg" height="267" alt="Panda 2" /></td>
+    </tr>
+  </table>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DE2910&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile!;欢迎来到我的主页！;一起探索编程的世界！)](https://git.io/typing-svg)
 </div>
