@@ -96,9 +96,6 @@
   <!--   profile-green-animate -->
   ![](./profile-3d-contrib/profile-green-animate.svg)
 
-  <!-- CodersRank stats -->
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tianyuyuyuyuyuyu&show-other-skills=true" width="auto"></img>
-
   #### Thanks for visiting :heart:
   <p align="center"> 
     <img src="https://profile-counter.glitch.me/Tianyuyuyuyuyuyu/count.svg">
@@ -107,9 +104,12 @@
   <p align="center">counting of visitors to this page in this section started from January 15, 2024</p>
   <a href="https://info.flagcounter.com/OtRf"><img src="https://s01.flagcounter.com/count2/OtRf/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_64/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-  ## Star History
+  <!-- 暂时屏蔽的部分
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tianyuyuyuyuyuyu&show-other-skills=true" width="auto"></img>
 
+  ## Star History
   [![Star History Chart](https://api.star-history.com/svg?repos=Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu&type=Date)](https://star-history.com/#Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu&Date)
+  -->
 </div>
 
 <!--
