@@ -97,7 +97,8 @@
   ![](./profile-3d-contrib/profile-green-animate.svg)
 
   <!-- CodersRank stats -->
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Yu+Tian&show-other-skills=true" width="auto"></img>
+  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=yu-tian" width="auto"></img>
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=yu-tian" width="auto"></img>
 </div>
 
 <!--
