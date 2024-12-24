@@ -40,13 +40,12 @@
     <tr>
       <td>Language / IDE</td>
       <td>
-        <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
-        <img src="https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white" alt="PyQt" />
-        <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
         <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
+        <img src="https://img.shields.io/badge/Rider-000000?style=flat&logo=rider&logoColor=white" alt="Rider" />
+        <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio" />
       </td>
     </tr>
     <tr>
