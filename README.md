@@ -85,6 +85,21 @@
   ### 📈 GitHub Activity Graph:
   
   ![Tianyuyuyuyuyuyu's github activity graph](https://raw.githubusercontent.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu/output/github-contribution-grid-snake.svg)
+
+  <!-- GitHub Stats -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Tianyuyuyuyuyuyu&show_icons=true&theme=radical&include_all_commits=true" alt="Tianyuyuyuyuyuyu's github stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tianyuyuyuyuyuyu&theme=radical&layout=compact" alt="Tianyuyuyuyuyuyu's top langs" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tianyuyuyuyuyuyu" alt="Tianyuyuyuyuyuyu's streak stats" />
+
   ![Tianyuyuyuyuyuyu's github activity graph](https://raw.githubusercontent.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu/output/github-contribution-grid-snake-dark.svg)
 </div>
 
