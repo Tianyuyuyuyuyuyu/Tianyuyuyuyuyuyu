@@ -19,9 +19,17 @@
 
   <!--   header image -->
   <img src="./src/header_.png" width="100%" alt="Tech Stack" />
-  <a href="https://unity.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" align="right" height="50" width="138" ></a>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DE2910&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile!;欢迎来到我的主页！;一起探索编程的世界！)](https://git.io/typing-svg)
+  <table border="0">
+    <tr>
+      <td width="90%" align="center">
+        [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DE2910&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile!;欢迎来到我的主页！;一起探索编程的世界！)](https://git.io/typing-svg)
+      </td>
+      <td width="10%" align="right">
+        <a href="https://unity.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" height="50" width="138" ></a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!--
