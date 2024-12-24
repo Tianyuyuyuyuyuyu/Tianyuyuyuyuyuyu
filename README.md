@@ -19,7 +19,7 @@
 
   <!--   header image -->
   <img src="./src/header_.png" width="100%" alt="Tech Stack" />
-  <div align="center">
+  <div align="right">
     <a href="https://unity.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" height="50" width="138"></a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png" height="50" width="50"></a>
     <a href="https://dotnet.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/DotNet_logo.svg" height="50" width="50"></a>
@@ -27,10 +27,16 @@
     <a href="https://chat.openai.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg" height="50" width="50"></a>
   </div>
 
-  <div>
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DE2910&center=true&vCenter=true&width=400&lines=你好啊+👋,+我是田雨;+欢迎来到我的主页!;拥有4年以上编程经验;永远保持学习的热情)](https://git.io/typing-svg)
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DE2910&center=true&vCenter=true&width=400&lines=Hi+there+👋,+I+am+Tian+Yu;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things)](https://git.io/typing-svg)
-  </div>
+  <table>
+    <tr>
+      <td>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DE2910&center=true&vCenter=true&width=400&lines=你好啊+👋,+我是田雨;+欢迎来到我的主页!;拥有4年以上编程经验;永远保持学习的热情" alt="Typing SVG" />
+      </td>
+      <td>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DE2910&center=true&vCenter=true&width=400&lines=Hi+there+👋,+I+am+Tian+Yu;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things" alt="Typing SVG" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!--
