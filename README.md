@@ -92,6 +92,9 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tianyuyuyuyuyuyu&theme=radical)
 
   ![Tianyuyuyuyuyuyu's github activity graph](https://raw.githubusercontent.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu/output/github-contribution-grid-snake-dark.svg)
+
+  <!--   profile-green-animate -->
+  ![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
 
 <!--
