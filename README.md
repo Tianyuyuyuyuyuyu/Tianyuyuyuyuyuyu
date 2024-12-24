@@ -17,6 +17,9 @@
       <img src="https://visitor-badge.laobi.icu/badge?page_id=Tianyuyuyuyuyuyu.Tianyuyuyuyuyuyu" alt="visitors"/>   
   </p>
 
+  <!--   header image -->
+  <img src="./src/header_.png" width="100%" alt="Tech Stack" />
+
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DE2910&center=true&vCenter=true&width=800&lines=Welcome+to+my+profile!;欢迎来到我的主页！;一起探索编程的世界！)](https://git.io/typing-svg)
 </div>
 
