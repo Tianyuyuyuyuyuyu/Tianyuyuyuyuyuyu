@@ -10,6 +10,7 @@
   <!--   my-icons -->
   <p align="center">
       <a href="https://github.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+      <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
       <a href="https://github.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu/graphs/contributors"><img src="https://img.shields.io/github/contributors/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu?color=blue"></a>
       <a href="https://github.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu/stargazers"><img src="https://img.shields.io/github/stars/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu.svg?logo=github"></a>
       <a href="https://github.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu/network/members"><img src="https://img.shields.io/github/forks/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu.svg?color=blue&logo=github"></a>
