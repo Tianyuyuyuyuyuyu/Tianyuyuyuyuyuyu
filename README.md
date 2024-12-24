@@ -95,6 +95,10 @@
 
   <!--   profile-green-animate -->
   ![](./profile-3d-contrib/profile-green-animate.svg)
+
+  <!-- CodersRank stats -->
+  <img src="https://cr-summary-widget.azurewebsites.net/api/api?username=Tianyuyuyuyuyuyu" width="auto"></img>
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Tianyuyuyuyuyuyu&show-other-skills=true" width="auto"></img>
 </div>
 
 <!--
