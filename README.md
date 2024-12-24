@@ -86,9 +86,8 @@
   
   ![Tianyuyuyuyuyuyu's github activity graph](https://raw.githubusercontent.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu/output/github-contribution-grid-snake.svg)
 
-  | .                                                                                                                                       | .                                                                                                                         |
-  |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tianyuyuyuyuyuyu&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tianyuyuyuyuyuyu&theme=radical) |
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tianyuyuyuyuyuyu&theme=radical) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tianyuyuyuyuyuyu&theme=radical)
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tianyuyuyuyuyuyu&theme=radical)
 
