@@ -97,9 +97,7 @@
   ![](./profile-3d-contrib/profile-green-animate.svg)
 
   <!-- CodersRank stats -->
-  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=yu-tian" width="auto"></img>
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=yu-tian" width="auto"></img>
-</div>
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tianyuyuyuyuyuyu&show-other-skills=true" width="auto"></img>
 
 <!--
 **Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
