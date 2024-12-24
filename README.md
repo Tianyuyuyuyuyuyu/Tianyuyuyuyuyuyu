@@ -32,13 +32,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DE2910&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Tian+Yu;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things" alt="Typing SVG" />
 
   <!-- Skill Matrix -->
-  <table>
+  <table width="100%">
     <tr>
-      <td width="200"><b>🛠 Property</b></td>
+      <td><b>🛠 Property</b></td>
       <td><b>💻 Data</b></td>
     </tr>
     <tr>
-      <td width="200">Language / IDE</td>
+      <td>Language / IDE</td>
       <td>
         <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm" />
@@ -50,7 +50,7 @@
       </td>
     </tr>
     <tr>
-      <td width="200">Domain Knowledge</td>
+      <td>Domain Knowledge</td>
       <td>
         <img src="https://img.shields.io/badge/Machine%20Learning-01D277?style=flat" alt="Machine Learning" />
         <img src="https://img.shields.io/badge/Computer%20Science-FAB040?style=flat" alt="Computer Science" />
@@ -59,7 +59,7 @@
       </td>
     </tr>
     <tr>
-      <td width="200">CI / CD</td>
+      <td>CI / CD</td>
       <td>
         <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" alt="Markdown" />
         <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
@@ -71,7 +71,7 @@
       </td>
     </tr>
     <tr>
-      <td width="200">Databases</td>
+      <td>Databases</td>
       <td>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
