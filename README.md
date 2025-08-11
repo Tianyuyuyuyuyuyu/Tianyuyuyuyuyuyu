@@ -27,9 +27,9 @@
     <a href="https://chat.openai.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg" height="50" width="50"></a>
   </div>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DE2910&center=true&vCenter=true&width=800&lines=你好啊+👋,+我是田雨;+欢迎来到我的主页!;拥有4年以上编程经验;永远保持学习的热情" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DE2910&center=true&vCenter=true&width=800&lines=你好啊+👋,+我是田雨;+欢迎来到我的主页!;拥有5年以上编程经验;永远保持学习的热情" alt="Typing SVG" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DE2910&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Tian+Yu;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DE2910&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Tian+Yu;+Welcome+to+My+Profile!;Over+5+years+of+programming+experience;Always+learning+new+things" alt="Typing SVG" />
 
   <!-- Skill Matrix -->
   <table width="100%">
