@@ -27,10 +27,6 @@
     <a href="https://chat.openai.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/ChatGPT-Logo.svg" height="50" width="50"></a>
   </div>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DE2910&center=true&vCenter=true&width=800&lines=你好啊+👋,+我是田雨;+欢迎来到我的主页!;拥有5年以上编程经验;永远保持学习的热情" alt="Typing SVG" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=DE2910&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Tian+Yu;+Welcome+to+My+Profile!;Over+5+years+of+programming+experience;Always+learning+new+things" alt="Typing SVG" />
-
   <!-- Skill Matrix -->
   <table width="100%">
     <tr>
@@ -86,20 +82,12 @@
   
   ![Tianyuyuyuyuyuyu's github activity graph](https://raw.githubusercontent.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu/output/github-contribution-grid-snake.svg)
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tianyuyuyuyuyuyu&theme=radical) 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tianyuyuyuyuyuyu&theme=radical)
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tianyuyuyuyuyuyu&theme=radical)
-
   ![Tianyuyuyuyuyuyu's github activity graph](https://raw.githubusercontent.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu/output/github-contribution-grid-snake-dark.svg)
 
   <!--   profile-green-animate -->
   ![](./profile-3d-contrib/profile-green-animate.svg)
 
   #### Thanks for visiting :heart:
-  <p align="center"> 
-    <img src="https://profile-counter.glitch.me/Tianyuyuyuyuyuyu/count.svg">
-  </p>
 
   <p align="center">counting of visitors to this page in this section started from January 15, 2024</p>
   <a href="https://info.flagcounter.com/OtRf"><img src="https://s01.flagcounter.com/count2/OtRf/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_64/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
